@@ -1,16 +1,22 @@
-### Hi there 👋
+### Welcome!
 
-<!--
-**pablo-abc/pablo-abc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pablo Berganza, I am a software developer, mostly working as a full-stack web developer.
+My main programming language is JavaScript, usually using TypeScript.
 
-Here are some ideas to get you started:
+I am currently maintaining two self-made open source projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [felte](https://github.com/pablo-abc/felte): A form management library for Svelte.
+- [svelte-markdown](https://github.com/pablo-abc/svelte-markdown): A markdown renderer that renders to Svelte components.
+
+Feel free to check them out!
+
+#### My main programming languages
+- TypeScript
+- JavaScript
+- Rust
+- Clojure
+
+#### Main frameworks I work with
+- ReactJS
+- Svelte
+- NestJS
