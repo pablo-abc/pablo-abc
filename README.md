@@ -16,7 +16,8 @@ Feel free to check them out!
 - Rust
 - Clojure
 
-#### Main frameworks I work with
+#### Main technologies I work with
 - ReactJS
 - Svelte
+- NodeJS
 - NestJS
