@@ -5,7 +5,7 @@ My main programming language is JavaScript, usually using TypeScript.
 
 I am currently maintaining two self-made open source projects:
 
-- [felte](https://github.com/pablo-abc/felte): A form management library for Svelte.
+- [felte](https://github.com/pablo-abc/felte): A form management library for Svelte, Solid and React.
 - [svelte-markdown](https://github.com/pablo-abc/svelte-markdown): A markdown renderer that renders to Svelte components.
 
 Feel free to check them out!
