@@ -24,9 +24,11 @@ Feel free to check them out!
 - NodeJS
 - NestJS
 
+<link rel="me" href="https://sivar.cafe/@pablo">
+
 #### Links
 - [Personal website and blog](https://pablo.berganza.dev)
 - [Felte homepage](https://felte.dev)
 - [dev.to profile](https://dev.to/pabloabc)
 - [hashnode blog](https://hn.berganza.dev)
-- <a rel="me" href="https://sivar.cafe/@pablo">Mastodon</a>
+- [Mastodon](https://sivar.cafe/@pablo)
